@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'rocket_puzzle' target in the 'rocket_puzzle' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
